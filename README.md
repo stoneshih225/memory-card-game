@@ -1,5 +1,8 @@
 # memory card game
 
+### ✔[Live Demo](https://stoneshih225.github.io/memory-card-game/)
+<br>
+
 ![memoryCardGame](https://media.giphy.com/media/1vqlN27fIVmf7KZHEr/giphy.gif)
 
 ### MY NOTE 📃
